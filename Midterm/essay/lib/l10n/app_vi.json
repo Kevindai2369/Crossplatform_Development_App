@@ -1,0 +1,15 @@
+{
+  "appTitle": "Ứng Dụng Demo i18n",
+  "welcomeMessage": "Chào mừng đến với ứng dụng đa ngôn ngữ của chúng tôi!",
+  "changeLanguage": "Đổi Ngôn Ngữ",
+  "currentLanguage": "Ngôn Ngữ Hiện Tại: {language}",
+  "greeting": "Xin chào, {name}!",
+  "itemCount": "{count, plural, =0{Không có mục nào} =1{Một mục} other{{count} mục}}",
+  "todayDate": "Hôm nay là {date}",
+  "price": "Giá: {amount}",
+  "settings": "Cài Đặt",
+  "home": "Trang Chủ",
+  "profile": "Hồ Sơ",
+  "enterName": "Nhập tên của bạn",
+  "submit": "Gửi"
+}
