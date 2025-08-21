@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:intl/intl.dart';
+import '../l10n/app_localizations.dart';
 
 class HomeScreen extends StatefulWidget {
   final Function(Locale) onLocaleChange;
 
-  HomeScreen({required this.onLocaleChange});
+  const HomeScreen({super.key, required this.onLocaleChange});
 
   @override
   _HomeScreenState createState() => _HomeScreenState();
