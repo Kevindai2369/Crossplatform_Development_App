@@ -1,4 +1,5 @@
 {
+  "@@locale": "en",
   "appTitle": "i18n Demo App",
   "@appTitle": {
     "description": "The title of the application"
