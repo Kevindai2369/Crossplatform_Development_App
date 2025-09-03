@@ -31,7 +31,7 @@
     "description": "Số tiền hiển thị",
     "placeholders": {
       "amount": {
-        "type": "double"
+        "type": "String"
       }
     }
   },
