@@ -1,4 +1,5 @@
 {
+  "@@locale": "vi",
   "helloWorld": "Xin chào Thế giới!",
   "@helloWorld": {
     "description": "Chương trình khởi đầu thông thường"
