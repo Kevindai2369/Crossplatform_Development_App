@@ -1,19 +1,36 @@
 {
   "@@locale": "ja",
-  "appTitle": "多言語デモ",
-  "welcome": "Flutter i18n デモへようこそ",
-  "description": "このアプリはFlutterでの国際化とローカライゼーション機能を実演します。",
-  "dateTimeTitle": "日時フォーマット",
-  "currentDate": "現在の日付",
-  "currentTime": "現在の時刻",
-  "numbersTitle": "数値と通貨のフォーマット",
-  "largeNumber": "大きな数",
-  "currency": "通貨",
-  "percentage": "パーセンテージ",
-  "pluralizationTitle": "複数形の例",
-  "layoutTitle": "レイアウト方向",
-  "layoutDescription": "このテキストはアラビア語などのRTL言語に対応します",
-  "itemCount": "{count, plural, =0{アイテムなし} =1{1アイテム} other{{count}アイテム}}",
-  "userName": "こんにちは、{name}さん！",
-  "lastSeenMessage": "最後のアクセス：{timeAgo}"
+  "helloWorld": "こんにちは世界！",
+  "@helloWorld": {
+    "description": "おなじみの最初のプログラム"
+  },
+  "greeting": "おはようございます！",
+  "@greeting": {},
+  "welcomeMessage": "アプリへようこそ。",
+  "@welcomeMessage": {},
+  "itemsInCart": "{itemCount, plural, other{カートに{itemCount}個のアイテムがあります。}}",
+  "@itemsInCart": {
+    "description": "カート内のアイテム数",
+    "placeholders": {
+      "itemCount": {
+        "type": "int"
+      }
+    }
+  },
+  "currentDate": "今日の日にち: {date}",
+  "@currentDate": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "amount": "金額: {amount}",
+  "@amount": {
+    "placeholders": {
+      "amount": {
+        "type": "double"
+      }
+    }
+  },
+  "languageSelection": "言語を選択してください:",
+  "@languageSelection": {}
 }
