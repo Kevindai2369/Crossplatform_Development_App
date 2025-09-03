@@ -31,7 +31,7 @@
     "description": "金額の値を表示",
     "placeholders": {
       "amount": {
-        "type": "double"
+        "type": "String"
       }
     }
   },
