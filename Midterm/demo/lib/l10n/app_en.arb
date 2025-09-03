@@ -8,7 +8,7 @@
   "@greeting": {},
   "welcomeMessage": "Welcome to our app.",
   "@welcomeMessage": {},
-  "itemsInCart": "{itemCount, plural, =0{No items in cart.} =1{One item in cart.} other{{{itemCount} items in cart.}}}",
+  "itemsInCart": "{itemCount, plural, =0{No items in cart.} =1{One item in cart.} other{{itemCount} items in cart.}}",
   "@itemsInCart": {
     "description": "Number of items in cart",
     "placeholders": {

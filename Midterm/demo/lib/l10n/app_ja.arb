@@ -19,12 +19,16 @@
   },
   "currentDate": "今日の日にち: {date}",
   "@currentDate": {
+    "description": "今日の日付を表示",
     "placeholders": {
-      "date": {}
+      "date": {
+        "type": "String"
+      }
     }
   },
   "amount": "金額: {amount}",
   "@amount": {
+    "description": "金額の値を表示",
     "placeholders": {
       "amount": {
         "type": "double"

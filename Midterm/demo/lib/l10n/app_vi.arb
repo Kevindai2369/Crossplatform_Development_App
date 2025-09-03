@@ -8,7 +8,7 @@
   "@greeting": {},
   "welcomeMessage": "Chào mừng bạn đến với ứng dụng của chúng tôi.",
   "@welcomeMessage": {},
-  "itemsInCart": "{itemCount, plural, other{{{itemCount} sản phẩm trong giỏ hàng.}}}",
+  "itemsInCart": "{itemCount, plural, other{{itemCount} sản phẩm trong giỏ hàng.}}",
   "@itemsInCart": {
     "description": "Số lượng sản phẩm trong giỏ hàng",
     "placeholders": {
