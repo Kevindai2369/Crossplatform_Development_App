@@ -1,0 +1,39 @@
+{
+  "helloWorld": "Xin chào Thế giới!",
+  "@helloWorld": {
+    "description": "Chương trình khởi đầu thông thường"
+  },
+  "greeting": "Chào buổi sáng!",
+  "@greeting": {},
+  "welcomeMessage": "Chào mừng bạn đến với ứng dụng của chúng tôi.",
+  "@welcomeMessage": {},
+  "itemsInCart": "{itemCount, plural, other{{{itemCount} sản phẩm trong giỏ hàng.}}}",
+  "@itemsInCart": {
+    "description": "Số lượng sản phẩm trong giỏ hàng",
+    "placeholders": {
+      "itemCount": {
+        "type": "int"
+      }
+    }
+  },
+  "currentDate": "Ngày hôm nay: {date}",
+  "@currentDate": {
+    "description": "Ngày hiện tại được hiển thị",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "amount": "Số tiền: {amount}",
+  "@amount": {
+    "description": "Số tiền hiển thị",
+    "placeholders": {
+      "amount": {
+        "type": "double"
+      }
+    }
+  },
+  "languageSelection": "Chọn ngôn ngữ:",
+  "@languageSelection": {}
+}
