@@ -78,7 +78,6 @@
     "placeholders": {
       "timeAgo": {
         "type": "String",
-        "format": "relative",
         "example": "2 hours ago"
       }
     }
