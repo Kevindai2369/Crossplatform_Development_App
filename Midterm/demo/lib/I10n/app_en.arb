@@ -1,0 +1,86 @@
+{
+  "@@locale": "en",
+  "appTitle": "Multilingual Demo",
+  "@appTitle": {
+    "description": "Title of the application"
+  },
+  "welcome": "Welcome to Flutter i18n Demo",
+  "@welcome": {
+    "description": "Welcome message displayed on the home screen"
+  },
+  "description": "This app demonstrates internationalization and localization features in Flutter.",
+  "@description": {
+    "description": "App description text"
+  },
+  "dateTimeTitle": "Date & Time Formatting",
+  "@dateTimeTitle": {
+    "description": "Title for date and time section"
+  },
+  "currentDate": "Current Date",
+  "@currentDate": {
+    "description": "Label for current date display"
+  },
+  "currentTime": "Current Time",
+  "@currentTime": {
+    "description": "Label for current time display"
+  },
+  "numbersTitle": "Number & Currency Formatting",
+  "@numbersTitle": {
+    "description": "Title for numbers and currency section"
+  },
+  "largeNumber": "Large Number",
+  "@largeNumber": {
+    "description": "Label for large number display"
+  },
+  "currency": "Currency",
+  "@currency": {
+    "description": "Label for currency display"
+  },
+  "percentage": "Percentage",
+  "@percentage": {
+    "description": "Label for percentage display"
+  },
+  "pluralizationTitle": "Pluralization Examples",
+  "@pluralizationTitle": {
+    "description": "Title for pluralization section"
+  },
+  "layoutTitle": "Layout Direction",
+  "@layoutTitle": {
+    "description": "Title for layout direction section"
+  },
+  "layoutDescription": "This text adapts to RTL languages like Arabic",
+  "@layoutDescription": {
+    "description": "Description text for RTL layout demonstration"
+  },
+  "itemCount": "{count, plural, =0{No items} =1{1 item} other{{count} items}}",
+  "@itemCount": {
+    "description": "Display item count with proper pluralization",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "userName": "Hello {name}!",
+  "@userName": {
+    "description": "Greeting message with user name",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "John"
+      }
+    }
+  },
+  "lastSeenMessage": "Last seen {timeAgo}",
+  "@lastSeenMessage": {
+    "description": "Message showing when user was last seen",
+    "placeholders": {
+      "timeAgo": {
+        "type": "String",
+        "format": "relative",
+        "example": "2 hours ago"
+      }
+    }
+  }
+}
