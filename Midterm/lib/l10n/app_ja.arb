@@ -1,6 +1,7 @@
 {
   "@@locale": "ja",
   "tasks": "タスク",
+  "addTask": "タスクを追加",
   "settings": "設定",
   "darkMode": "ダークモード",
   "language": "言語",
@@ -8,6 +9,7 @@
   "category": "カテゴリー",
   "deadline": "期限",
   "cancel": "キャンセル",
-  "save": "保存"
+  "save": "保存",
+  "all": "すべて"
 }
 
