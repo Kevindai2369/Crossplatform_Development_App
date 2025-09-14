@@ -1,0 +1,13 @@
+{
+  "@@locale": "ja",
+  "tasks": "タスク",
+  "settings": "設定",
+  "darkMode": "ダークモード",
+  "language": "言語",
+  "taskTitle": "タスク名",
+  "category": "カテゴリー",
+  "deadline": "期限",
+  "cancel": "キャンセル",
+  "save": "保存"
+}
+
