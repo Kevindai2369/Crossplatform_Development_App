@@ -1,0 +1,13 @@
+{
+  "tasks": "Tasks",
+  "addTask": "Add Task",
+  "taskTitle": "Task Title",
+  "category": "Category",
+  "deadline": "Deadline",
+  "cancel": "Cancel",
+  "save": "Save",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "all": "All"
+}

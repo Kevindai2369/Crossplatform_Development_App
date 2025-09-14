@@ -1,0 +1,13 @@
+{
+  "tasks": "Công việc",
+  "addTask": "Thêm công việc",
+  "taskTitle": "Tiêu đề công việc",
+  "category": "Danh mục",
+  "deadline": "Hạn chót",
+  "cancel": "Hủy",
+  "save": "Lưu",
+  "settings": "Cài đặt",
+  "darkMode": "Chế độ tối",
+  "language": "Ngôn ngữ",
+  "all": "Tất cả"
+}

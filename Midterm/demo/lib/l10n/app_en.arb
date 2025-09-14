@@ -1,0 +1,100 @@
+{
+  "@@locale": "en",
+  "appTitle": "i18n Demo App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "welcomeMessage": "Welcome to our multilingual app!",
+  "@welcomeMessage": {
+    "description": "Welcome message on home screen"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Button text to change language"
+  },
+  "currentLanguage": "Current Language: {language}",
+  "@currentLanguage": {
+    "description": "Shows current selected language",
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  },
+  "greeting": "Hello, {name}!",
+  "@greeting": {
+    "description": "Greeting message with name",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "itemCount": "{count, plural, =0{No items} =1{One item} other{{count} items}}",
+  "@itemCount": {
+    "description": "Shows item count with pluralization",
+    "placeholders": {
+      "count": {
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional first program"
+  },
+  "greeting": "Good morning!",
+  "@greeting": {},
+  "welcomeMessage": "Welcome to our app.",
+  "@welcomeMessage": {},
+  "itemsInCart": "{itemCount, plural, =0{No items in cart.} =1{One item in cart.} other{{itemCount} items in cart.}}",
+  "@itemsInCart": {
+    "description": "Number of items in cart",
+    "placeholders": {
+      "itemCount": {
+        "type": "int"
+      }
+    }
+  },
+  "todayDate": "Today is {date}",
+  "@todayDate": {
+    "description": "Shows formatted date",
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMd"
+      }
+    }
+  },
+  "price": "Price: {amount}",
+  "@price": {
+    "description": "Shows formatted currency",
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "currency"
+      }
+    }
+  },
+  "settings": "Settings",
+  "home": "Home",
+  "profile": "Profile",
+  "enterName": "Enter your name",
+  "submit": "Submit"
+  "currentDate": "Today's date: {date}",
+  "@currentDate": {
+    "description": "Shows today's date",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "amount": "Amount: {amount}",
+  "@amount": {
+    "description": "Shows the amount value",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "languageSelection": "Select Language:",
+  "@languageSelection": {}
+}
