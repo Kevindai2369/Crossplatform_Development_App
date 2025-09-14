@@ -1,8 +1,0 @@
-arb-dir: lib/l10n
-template-arb-file: app_en.arb
-output-localization-file: app_localizations.dart
-nullable-getter: false
-synthetic-package: false
-output-class: AppLocalizations
-header-comment: "/// Generated file. Do not edit."
-preferred-supported-locales: ["en", "vi", "ja", "ar"]
