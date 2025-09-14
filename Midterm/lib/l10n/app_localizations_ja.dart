@@ -12,7 +12,7 @@ class AppLocalizationsJa extends AppLocalizations {
   String get tasks => 'タスク';
 
   @override
-  String get addTask => 'Add Task';
+  String get addTask => 'タスクを追加';
 
   @override
   String get taskTitle => 'タスク名';
@@ -39,5 +39,5 @@ class AppLocalizationsJa extends AppLocalizations {
   String get language => '言語';
 
   @override
-  String get all => 'All';
+  String get all => 'すべて';
 }
